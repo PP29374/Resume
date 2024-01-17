@@ -58,10 +58,10 @@
 
 ###
 
-<p align="left">Software Testing Project : Test Scenario<br>[https://1drv.ms/b/c/455318856f154242/EaT6GoBY6VxAgAebUIS-mL0BjV59SHE6KXy3h8ahTrBIaA?e=PppPkN](https://drive.google.com/file/d/17ks69wjV0A6STOGXgYeJc6szVpcXiKTL/view)</p>
+<p align="left">Software Testing Project : Test Scenario<br>https://drive.google.com/file/d/17ks69wjV0A6STOGXgYeJc6szVpcXiKTL/view</p>
 
 ###
 
-<p align="left">System Analyst Project : Online Hostel Reservation <br>[https://1drv.ms/b/c/455318856f154242/ER-LJRJp8eRGg09CCrn4IQMBi4UkyAMvjItvd33gpzUfQw?e=4HMpFI](https://drive.google.com/file/d/1P3p6Tu3pmm_B9SSSlgU8lILu4wohlcrs/view)https://drive.google.com/file/d/1P3p6Tu3pmm_B9SSSlgU8lILu4wohlcrs/view</p>
+<p align="left">System Analyst Project : Online Hostel Reservation <br>https://drive.google.com/file/d/1P3p6Tu3pmm_B9SSSlgU8lILu4wohlcrs/view</p>
 
 ###
