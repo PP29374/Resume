@@ -65,7 +65,3 @@
 <p align="left">System Analyst Project : Online Hostel Reservation <br>https://1drv.ms/b/c/455318856f154242/ER-LJRJp8eRGg09CCrn4IQMBi4UkyAMvjItvd33gpzUfQw?e=4HMpFI</p>
 
 ###
-
-<p align="left">Database Project : Internet usage behavior survey</p>
-
-###
