@@ -13,3 +13,7 @@
 <p align="left">Ecommerce Project : Build a website sell OTOP <br>https://nandi-otopshop.000webhostapp.com/</p>
 
 ###
+
+<p align="left">Java Project : zooTicketVending <br>https://github.com/phunatchaK/zooTicketVending/</p>
+
+###
