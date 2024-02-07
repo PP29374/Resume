@@ -22,6 +22,6 @@
 
 ###
 
-<p align="left">C Project : Survey Vending Machine <br>https://drive.google.com/drive/folders/1tCAMbj43loorjKXejUyvYClBY6lUweeW?usp=sharing</p>
+<p align="left">C Project : Vending Machine Survey <br>https://drive.google.com/drive/folders/1tCAMbj43loorjKXejUyvYClBY6lUweeW?usp=sharing</p>
 
 ###
